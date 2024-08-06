@@ -1,0 +1,31 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+.env/
+
+# Archivos de logs
+*.log
+
+# Configuración del entorno de desarrollo
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de caché de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de configuración de test
+.pytest_cache/
+.mypy_cache/
+
+# Archivos de Python Egg
+*.egg-info/
+*.egg
